@@ -1,29 +1,3 @@
-{
-  "auto_mapping": null,
-  "base_model_name_or_path": "/data/xiachunwei/Dataset/codellama/CodeLlama-7b-hf",
-  "bias": "none",
-  "fan_in_fan_out": false,
-  "inference_mode": true,
-  "init_lora_weights": true,
-  "layers_pattern": null,
-  "layers_to_transform": null,
-  "lora_alpha": 32.0,
-  "lora_dropout": 0.05,
-  "modules_to_save": [
-    "embed_tokens",
-    "lm_head"
-  ],
-  "peft_type": "LORA",
-  "r": 8,
-  "revision": null,
-  "target_modules": [
-    "q_proj",
-    "v_proj",
-    "k_proj",
-    "o_proj",
-    "gate_proj",
-    "down_proj",
-    "up_proj"
-  ],
-  "task_type": "CAUSAL_LM"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b688d1588d35cc27c8f4bcf2ecae0d806fec48d3fd8aa29d3142098a241ca0b
+size 586

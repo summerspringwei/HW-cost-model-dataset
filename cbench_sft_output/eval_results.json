@@ -1,9 +1,3 @@
-{
-    "epoch": 1.0,
-    "eval_loss": 0.08585429936647415,
-    "eval_runtime": 2620.6728,
-    "eval_samples": 442,
-    "eval_samples_per_second": 0.169,
-    "eval_steps_per_second": 0.169,
-    "perplexity": 1.0896475543996844
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae9267c147c0cbe8833061fff3fb22ade7ef5e0e8bd9559f87e5bbb4ba5dd9bf
+size 226
